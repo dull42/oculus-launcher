@@ -52,3 +52,7 @@ dotnet publish -c Release
 ```
 
 The output will be a single `OculusLauncher.exe` in `bin\Release\net8.0-windows\win-x64\publish\`.
+
+## Credits
+
+The firewall fix approach is based on the PowerShell script by [Sprockee](https://gist.github.com/thesprockee/7e87036fc59fde56dbfb74729b42a2e2). This app wraps that logic into a simple GUI.

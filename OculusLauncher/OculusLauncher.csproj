@@ -5,6 +5,7 @@
     <UseWindowsDesktopExtensions>true</UseWindowsDesktopExtensions>
     <Nullable>enable</Nullable>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Assets\oculus_logo_icon_248328.ico</ApplicationIcon>
     <RootNamespace>OculusLauncher</RootNamespace>
     <AssemblyName>OculusLauncher</AssemblyName>
     <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
